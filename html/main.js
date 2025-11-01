@@ -1,8 +1,5 @@
 var player;
 var playerData;
-$(document).ready(function() {
-    $.post("https://ptelevision/pageLoaded", JSON.stringify({}))
-})
 
 function GetURLID(link) {
     if (link == null) return;
@@ -142,3 +139,4 @@ window.addEventListener("message", function(ev) {
 $(document).ready(function() {
     ChannelDisplay()
 })
+
