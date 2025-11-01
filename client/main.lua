@@ -1,4 +1,4 @@
-DEFAULT_URL = "https://michatec.github.io/ptelevision_web/nosignal.html"
+DEFAULT_URL = "https://michatec.github.io/ptelevision_web/index.html"
 duiUrl = DEFAULT_URL
 duiObj = nil
 tvObj = nil
@@ -222,4 +222,5 @@ AddEventHandler('onResourceStop', function(name)
         end
     end
 end)
+
 
