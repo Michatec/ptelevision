@@ -1,4 +1,4 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/111543470/198868741-d78353cf-0576-4f2e-8554-1f7e4ef4c986.png'/></div>
+<div align='center'><img src='https://michatec.github.io/ptelevision_web/ptelevision.png'/></div>
 
 ## What is this?
 
