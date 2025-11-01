@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
-author "Pickle Mods#0001"
-version "v1.2.5"
+author "Pickle Mods & Michatec"
+version "v1.2.6"
 ui_page "html/blank.html"
 
 files { 
@@ -30,3 +30,4 @@ server_scripts {
 }
 
 lua54 'yes'
+
