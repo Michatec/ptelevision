@@ -15,7 +15,7 @@ With this resource, you will be able to do the following:
 
 You will need the following for this script to work.
 
-- [Ox Lib](https://github.com/overextended/ox_lib/releases) (works with any framework)
+- [Ox Lib](https://github.com/CommunityOx/ox_lib/releases) (works with any framework)
 
 - [Renderer](https://github.com/Michatec/ptelevision/releases/tag/renderer_gfx) (works with any framework)
 
